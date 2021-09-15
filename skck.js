@@ -18,19 +18,6 @@
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     ctx.font = "600 120px Hiragino Kaku Gothic Pro";
 
-    /*
-            -webkit-linear-gradient(
-              left,
-              #2e4f8b 0%, #3e589d 35%,
-              #8f619b 60%, #d0718f 70%);
-            linear-gradient(
-              90deg,
-              #2e4f8b 0%,
-              #3e589d 35%,
-              #8f619b 60%,
-              #d0718f 60%)
-              */
-
     // Setup gradient.
     const grad = ctx.createLinearGradient(
       0, canvas.height / 2,
