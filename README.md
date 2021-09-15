@@ -1,4 +1,5 @@
-Super Kirakira Colorful Kukkiri Display
-=======================================
+SKCK
+====
 
+super de kirakira de colorful de kukkiri shiteiru.
 
